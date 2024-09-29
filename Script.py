@@ -10,7 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/chillxnow>JAi Shree Ram 🚩</a>
 ✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Mg_networks>MG Nᴇᴛᴡᴏʀᴋ ✮⋆˙</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : v1.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>"""
-    SOURCE_TXT = """<b>Cᴏɴᴛᴀᴄᴛ Tᴏ Dᴇᴠʟᴏᴘᴇʀ : <a href=https://t.me/chillxnow>JAɪ Sʜʀᴇᴇ Rᴀᴍ 🚩</a></b>
+    SOURCE_TXT = """<b>Cᴏɴᴛᴀᴄᴛ Tᴏ Dᴇᴠʟᴏᴘᴇʀ : <a href=https://t.me/chillxnow>JAɪ Sʜʀᴇᴇ Rᴀᴍ 🚩</a></b>"""
     TELEGRAPH = """Reply to any photo or video using by /telegraph that photo telegraph link you will get"""
     TOOLS = """TOOLS:
 
