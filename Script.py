@@ -47,7 +47,7 @@ Example: <code> /image Tony stark </code>"""
 
 ᴇɢ:- /font Hello """
     STICKER = """ yᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴜʟᴇ ᴛᴏ ꜰɪɴᴅᴀɴy  ꜱᴛɪᴄᴋᴇʀꜱ ɪᴅ.
- •ᴜꜱᴀɢᴇ :ᴛᴏ ɢᴇᴛ ꜱᴛɪᴄᴋᴇʀ
+ ᴜꜱᴀɢᴇ :ᴛᴏ ɢᴇᴛ ꜱᴛɪᴄᴋᴇʀ
  
 ⭕ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ
 ◉ Reply To Any Sticker [/stickerid]"""
