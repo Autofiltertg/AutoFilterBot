@@ -4,7 +4,7 @@ class script(object):
 ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ.
 ɪ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ.‎‎]</blockquote> ✧˚₊‧</b>"""
     HELP_TXT = """<b>Hᴇʏ {},
-   (blockquote> ─── ⋆⋅☆⋅⋆ ── </blockquote>
+   <blockquote> ─── ⋆⋅☆⋅⋆ ── </blockquote>
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : : {}
 <blockquote>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/chillxnow>JAi Shree Ram 🚩</a>
