@@ -1134,22 +1134,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
-    elif query.data == "source":
-        buttons = [[     
-            InlineKeyboardButton('Rᴇᴘᴏ', url="https://github.com/Mrzbots/AutoFilterBot"),
-            InlineKeyboardButton('⇌ Bᴀᴄᴋ ⇌', callback_data='about')
-        ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await client.edit_message_media(
-            query.message.chat.id,
-            query.message.id,
-            InputMediaPhoto("https://telegra.ph/file/74b540e9a28187613fcc8.jpg") # pls dont change
-        )
-        await query.message.edit_text(
-            text=script.SOURCE_TXT,
-            reply_markup=reply_markup,
-            parse_mode=enums.ParseMode.HTML
-        )
     elif query.data == "manuelfilter":
         buttons = [[
             InlineKeyboardButton('⇌ Bᴀᴄᴋ ⇌', callback_data='filter'),
